@@ -10,7 +10,7 @@ export default function NewJokeRoute() {
         <div>
           <label>
             Content
-            <input type="text" name="content" />
+            <textarea name="content" />
           </label>
         </div>
         <div>
